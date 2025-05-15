@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title> Restaurant Menu </title>
+         <meta charset="UTF-8">
+         <meta name="viewport" content="width=device-width, initial-scale=1.0">
+         <meta name="author" content="V-2007">
+         <meta name="keywords" content="Restaurant, Menu, food, meal, dinner, breakfast, lunch, dinner">
+         <meta name="description" content="Restaurant menu">
+    </head>
+<body>
+<section style="background-image: url('Landscape.jpg'); background-attachment: fixed;">
+    <br>
+    <h1 style=" font-family: 'Courier New', Courier, monospace; font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; text-align: center; font-size: 400%;"> Restaurant Menu </h1>
+<div style="padding: 20px; border-style: dotted; border-width: 9px; background-image: url('Breakfast.jpg'); width: 400px; height: 550px; margin: auto;">
+    <h2 style="background-color:maroon; text-align: center; font-size: 350%; color:antiquewhite;  font-family:'Courier New', Courier, monospace;">Breakfast</h2>
+    <ul style="font-family: Verdana, Geneva, Tahoma, sans-serif; color: maroon; font-size: 150%;">
+        <li> <b> Meals </b>
+        <ul>
+            <li>Croissant</li>
+            <li>Sandwich</li>
+            <li>Egg</li>
+            <li>Oatmeal</li>
+        </ul>
+        </li>
+        <li>  <b> Drinks </b>
+            <ul>
+                <li>Water</li>
+                <li>Coffee</li>
+                <li>Milk</li>
+                <li>Yogurt</li>
+            </ul>
+        </li>
+    </ul>
+</div>
+<div style="padding: 20px; border-style: dotted; border-width: 9px; background-image: url('Lunch.jpg'); width: 400px; height: 550px; margin:auto">
+    <h2 style="background-color:darkgoldenrod; text-align: center; font-size: 350%; color:black;  font-family:'Courier New', Courier, monospace;">Lunch</h2>
+    <ul style="font-family: Verdana, Geneva, Tahoma, sans-serif; color:black; font-size: 150%;">
+        <li> <b> Meals </b>
+        <ul>
+            <li>Sushi</li>
+            <li>Pasta</li>
+            <li>Steak</li>
+            <li>Paella</li>
+        </ul>
+        </li>
+        <li>  <b> Drinks </b>
+            <ul>
+                <li>Water</li>
+                <li>Lemonade</li>
+                <li>Coconut Water</li>
+                <li>Pineapple juice</li>
+            </ul>
+        </li>
+    </ul>
+</div>
+<div style="padding: 20px; border-style: dotted; border-width: 9px; background-image: url('Dinner.jpg'); width: 400px; height: 550px; margin: auto;">
+    <h2 style="background-color:black; text-align: center; font-size: 350%; color:moccasin;  font-family:'Courier New', Courier, monospace;">Dinner</h2>
+    <ul style="font-family: Verdana, Geneva, Tahoma, sans-serif; color: moccasin; font-size: 150%;">
+        <li> <b> Meals </b>
+        <ul>
+            <li>Soup</li>
+            <li>Salad</li>
+            <li>Fish</li>
+            <li>Chicken</li>
+        </ul>
+        </li>
+        <li>  <b> Drinks </b>
+            <ul>
+                <li>Water</li>
+                <li>Tea</li>
+                <li>Milk</li>
+                <li>Wine</li>
+            </ul>
+        </li>
+    </ul>
+</div>
+<br>
+</section>
+</body>
+</html>
